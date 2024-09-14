@@ -2,3 +2,5 @@ __pycache__
 .vscode
 .env
 venv
+app/__pycache__
+app/webhook/__pycache__
